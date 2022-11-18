@@ -67,7 +67,7 @@ All smart contracts are analyzed by Solhint which provides linting solutions for
 
 The SustainDAO website is currently hosted on Vercel.
 
-Link to video:
+Link to video: https://www.youtube.com/watch?v=VUOH-O_Jw9c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
